@@ -8,6 +8,10 @@
 	<string>Allow camera access</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Allow camera access</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location permission</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Location permission</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Allow camera access</string>
 	<key>CFBundleExecutable</key>
