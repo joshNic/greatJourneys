@@ -10,6 +10,8 @@
 	<string>Allow camera access</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Location permission</string>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Location permission</string>
 	<key>NSMicrophoneUsageDescription</key>
